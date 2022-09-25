@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.6.1">
+    <DOCUMENT ANZPAGES="20" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Abordage Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="2" LANGUAGE="fr" AUTOMATIC="0" AUTOCHECK="1" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="8" POLYF="0.378790608329628" POLYR="0" POLYIR="0" POLYCUR="0.3" POLYOCUR="0" POLYS="1" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Abordage Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="1" LEVEL="1" NAME="Titre-txt" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="2" LEVEL="2" NAME="coeur-txt" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Xerox_AltaLink_C8135" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="14.1732283464567" markOffset="14.1732283464567" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Abordage Regular"/>
+            <Fonts Name="Basteleur Bold"/>
+            <Fonts Name="DINdong &lt;3"/>
+            <Fonts Name="FT88 Gothique"/>
+            <Fonts Name="FT88 School"/>
+            <Subset Name="C059 Bold"/>
+            <Subset Name="DejaVu Sans Bold"/>
+            <Subset Name="Symbola Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="1" To="19" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="1" Name="Paginations" From="0" To="19" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="1" NAM="PGauche" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="2" NAM="PaginationDroite" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="655.276535433071" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="1" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1290.55181102362" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="2" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1925.82708661417" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="3" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2561.10236220472" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3196.37763779528" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="5" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3831.65291338583" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="6" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4466.92818897638" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="7" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5102.20346456693" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="8" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5737.47874015748" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="9" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6372.75401574803" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="10" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7008.02929133858" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="11" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7643.30456692913" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="12" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8278.57984251968" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="13" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8913.85511811024" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="14" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9549.13039370079" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="15" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="10184.4056692913" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="16" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="10819.6809448819" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="17" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="11454.9562204724" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="18" NAM="" MNAM="PaginationDroite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="12090.231496063" PAGEWIDTH="420.944881889764" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="19" NAM="" MNAM="PGauche" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="106.299 136.063 155.906 314.646 " HorizontalGuides="304.724 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="255.906141732284" YPOS="586.930393700787" OwnPage="1" ItemID="1687425829" PTYPE="4" WIDTH="20.9266542956016" HEIGHT="12.1025407492859" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20.9267 0 L20.9267 12.1025 L0 12.1025 L0 0 Z" copath="M0 0 L20.9267 0 L20.9267 12.1025 L0 12.1025 L0 0 Z" OnMasterPage="PGauche" gXpos="255.906141732283" gYpos="11348066973.2497" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail ALIGN="0" DIRECTION="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="338.151562264908" YPOS="588.695348813883" OwnPage="2" ItemID="1687485717" PTYPE="4" WIDTH="26.8884377350921" HEIGHT="12.4082732333618" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L26.8884 0 L26.8884 12.4083 L0 12.4083 L0 0 Z" copath="M0 0 L26.8884 0 L26.8884 12.4083 L0 12.4083 L0 0 Z" OnMasterPage="PaginationDroite" gXpos="338.151562264908" gYpos="11276543207.1032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="149.606929133859" YPOS="6559.62007402579" OwnPage="10" ItemID="1687447093" PTYPE="6" WIDTH="214.933070866142" HEIGHT="30.1847133757956" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L214.933 0 L214.933 30.1847 L0 30.1847 L0 0 Z" copath="M0 0 L214.933 0 L214.933 30.1847 L0 30.1847 L0 0 Z" gXpos="149.606929133858" gYpos="5260.72306615177" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="257.32346456693" YPOS="5997.34479843522" OwnPage="9" ItemID="1687440293" PTYPE="6" WIDTH="214.933070866142" HEIGHT="30.1847133757956" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L214.933 0 L214.933 30.1847 L0 30.1847 L0 0 Z" copath="M0 0 L214.933 0 L214.933 30.1847 L0 30.1847 L0 0 Z" gXpos="257.323464566929" gYpos="5347.89629449821" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="150.106929133858" YPOS="5221.42606850895" OwnPage="8" ItemID="1687471605" PTYPE="6" WIDTH="214.933070866142" HEIGHT="30.1847133757956" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L214.933 0 L214.933 30.1847 L0 30.1847 L0 0 Z" copath="M0 0 L214.933 0 L214.933 30.1847 L0 30.1847 L0 0 Z" gXpos="150.106929133858" gYpos="5221.42606850895" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="142.276220472441" YPOS="98.8214173228347" OwnPage="0" ItemID="1687531685" PTYPE="4" WIDTH="107.716535433071" HEIGHT="69.2716254576466" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L107.717 0 L107.717 69.2716 L0 69.2716 L0 0 Z" copath="M0 0 L107.717 0 L107.717 69.2716 L0 69.2716 L0 0 Z" gXpos="142.276220472441" gYpos="98.8214173228347" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="9" CH="Ou comment tenter d'utiliser "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="9" CH="nos ordinateurs "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="9" CH="&amp; co de manière "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="9" CH="émancipatrice"/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="2589.44881889764" OwnPage="4" ItemID="1687490101" PTYPE="4" WIDTH="215.433070866142" HEIGHT="509.978033000654" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 509.978 L0 509.978 L0 0 Z" copath="M0 0 L215.433 0 L215.433 509.978 L0 509.978 L0 0 Z" gXpos="149.606929133858" gYpos="1290.55181102363" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Introduction"/>
+                <tab/>
+                <tab/>
+                <tab/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" CH="Qu'est ce que le libre?"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Sommaire"/>
+                <tab/>
+                <tab/>
+                <ITEXT CH=" "/>
+                <tab/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="  "/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Quelles alternatives"/>
+                <tab FONT="FT88 School" FONTSIZE="17"/>
+                <tab FONT="FT88 School" FONTSIZE="17"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="aux logiciels propriétaires?"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Moteurs de recherche "/>
+                <para LINESPMode="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" CH="Lequel choisir + export marques-pages"/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Se mettre à programmer "/>
+                <para LINESPMode="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" CH="Html, CSS et JS"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para LINESPMode="1" LINESP="15"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Pourquoi des typo-"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="graphies open-sources?"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" CH="Le a-propos de Velvetyne.fr"/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Liste de fonderies "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="et typos libres"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Les réseaux sociaux"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="S'informer"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Les smartphones"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" CH="Android, F-droid, Exodus..."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Sites qui proposent "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="des guides"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" CH="A sainté"/>
+                <para LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="1318.89826771654" OwnPage="2" ItemID="1687966869" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.90551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="149.606929133858" gYpos="669.449763779523" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1696473029" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Introduction "/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="0"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Le mouvement du logiciel libre est un mouvement social dont le but est d'obtenir"/>
+                <para LINESPMode="0" MinWordTrack="1" MinGlyphShrink="1" MaxGlyphExtend="1" wordTrack="0.93"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="et de garantir une certaine liberté pour "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="1.12"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="les utilisateurices. Comme l'explique l'association Framasoft, l'objectif de ces pratique est de s'assurer que l'humain..e reste en maitrise de l'outil numérique"/>
+                <ITEXT FONTSIZE="12" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="1.02"/>
+                <para LINESPMode="0"/>
+                <ITEXT FONTSIZE="12" CH="“"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" Le respect des libertés fondamentales des utilisatrices et utilisateurs, "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="garanties par des contrats légaux "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="(les licences libres), est au cœur "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="du mouvement libriste et permet "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de s’assurer que l’humain reste "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="en maîtrise de l’outil numérique."/>
+                <ITEXT FONTSIZE="12" CH=" ”"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Dans nos pratiques créatives, les outils numériques sont au centre: logiciels "/>
+                <para LINESPMode="0" wordTrack="1.15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de création, navigateur web, réseaux sociaux... Et nous les utilisons presque machinalement, sans remettre en question leur légitimité. Seulement, un certain petit nombre d'entre eux sont hégémo-niques dans nos appareils, notamment "/>
+                <para LINESPMode="0" wordTrack="0.93"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="les GAFAM, qui"/>
+                <ITEXT FONTSIZE="12" CH=" “ "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="ont une telle puissance qu’ils exercent une domination technique, économique, culturelle et politique sur nos sociétés"/>
+                <ITEXT FONTSIZE="12" CH=" ”"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" - "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FEATURES="inherit underline" FCOLOR="Blue" CH="degooglisons-internet.org/fr/"/>
+                <para LINESPMode="0" wordTrack="0.66"/>
+                <para LINESPMode="0"/>
+                <para LINESPMode="0"/>
+                <para LINESPMode="0"/>
+                <para LINESPMode="0"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Ces dominations n'échappent pas aux"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="98" CH=" écoles, qui font aussi parti des principaux"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" endroits qui nous apprennent"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="102" CH=" et nous encouragent a utiliser certains lo"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="102" SCALEV="100" CH="giciels. "/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="0.98"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Évidemment, je comprend la nécessité d'apprendre a utiliser certains logiciels pour des raisons "/>
+                <ITEXT FONTSIZE="12" CH="“ "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="professionnelles"/>
+                <ITEXT FONTSIZE="12" CH=" ”"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="(entreprises qui imposent des logiciels "/>
+                <para LINESPMode="0"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="à connaitre pour être embauché..e) mais "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="99" CH="aujourd'hui il me semble plus qu'important"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" de prendre conscience que ces choix sont malgré nous, qu'ils sont politiques, "/>
+                <para LINESPMode="0" wordTrack="0.96"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="99" CH="et que de ce fait ils participent a renforcer"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="100" CH=" l'hégémonie de ces grands groupes."/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <para LINESPMode="0" MinWordTrack="0.96" wordTrack="0.8"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Plus généralement concernant les outils "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="100" CH="numériques, il y'a un tas d'actions "/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="0.84"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="qui sont possibles et qui ne demandent "/>
+                <para LINESPMode="0" MinWordTrack="0.96" wordTrack="0.8"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="101" CH="pas forcément une implication énorme,"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="97" CH="mais simplement de changer nos habi-tudes"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=", ce qu'on nous pousse a ne surtout pas faire aujourd'hui."/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="0.8"/>
+                <para LINESPMode="0"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="C'est pour ces raisons que j'ai décidé "/>
+                <para LINESPMode="0"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="100" CH="de réaliser ce guide destiné aux étudi-ant..es,"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" pour partager mes expériences "/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="et mes connaissances des actions possibles pour s'opposer aux logiciels privateurs, et reprendre le contrôle "/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="sur nos outils. Ce sont des sites, "/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="des outils que l'on m'a partagé au cours de ces dernières années, je remercie toutes les personnes qui l'ont fait! "/>
+                <para LINESPMode="0" MinWordTrack="1" wordTrack="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Vous êtes bien trop nombreux.ses pour vous citer mais vous êtes in my heart &lt;3"/>
+                <trail LINESPMode="0" MinWordTrack="1" wordTrack="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="2589.44881889764" OwnPage="4" ItemID="1687679253" PTYPE="4" WIDTH="215.433070866142" HEIGHT="28.9806770650484" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 28.9807 L0 28.9807 L0 0 Z" copath="M0 0 L215.433 0 L215.433 28.9807 L0 28.9807 L0 0 Z" gXpos="149.606929133858" gYpos="2589.44881889764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Sommaire"/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="255.906141732283" YPOS="3224.72409448819" OwnPage="5" ItemID="1688074597" PTYPE="4" WIDTH="215.433070866142" HEIGHT="516.398415166258" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 516.398 L0 516.398 L0 0 Z" copath="M0 0 L215.433 0 L215.433 516.398 L0 516.398 L0 0 Z" gXpos="255.906141732283" gYpos="2575.27559055118" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Quelles alternatives "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="aux logiciels propriétaires?"/>
+                <para LINESPMode="1"/>
+                <para/>
+                <ITEXT CH="“ "/>
+                <ITEXT FONT="DINdong &lt;3" BASEO="0" KERN="0" CH="Alternativeto.net est un service gratuit qui vous aide à trouver de meilleures alternatives aux produits que vous aimez et détestez."/>
+                <ITEXT CH=" ”"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Ce site web permet de chercher des alternatives à de nombreux de logiciels, avec en plus la possibilité de lire les avis des utilisateur·ices. Il est indiqué clairement si le logiciel est libre, open-source ou propriétaire, ainsi que ce que les caractéristiques du logiciel."/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://alternativeto.net/"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT CH="-----"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit allcaps" CH="à"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" la place de Wetransfer"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="C059 Bold" CH="☺"/>
+                <ITEXT CH=" -----"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="- Chapril "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://www.chapril.org/"/>
+                <para/>
+                <para/>
+                <ITEXT CH="---------- "/>
+                <ITEXT FONT="DINdong &lt;3" CH="Changer de mail"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="✉"/>
+                <ITEXT CH=" ---------"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="- Mailo (Je l'utilise mais je crois "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="94" CH="que "/>
+                <para wordTrack="0.9"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="94" CH="c'est pas libre)"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="93" CH=" https://www.mailo.com/"/>
+                <para wordTrack="0.9"/>
+                <ITEXT FONT="DINdong &lt;3" CH="- ProtonMail "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="99" CH="(mais il y'avait eu des soucis"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" de fuite de données il y a qq temps)"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="None" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://account.proton.me/login"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="- "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://riseup.net/"/>
+                <ITEXT FONT="DINdong &lt;3" CH="(connait pas mais ça a l'air bien!!)"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="- "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://www.infini.fr/ "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="- "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://www.thunderbird.net/fr/"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="3859.99937007874" OwnPage="6" ItemID="1689580805" PTYPE="4" WIDTH="215.433070866142" HEIGHT="519.99449721651" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 519.994 L0 519.994 L0 0 Z" copath="M0 0 L215.433 0 L215.433 519.994 L0 519.994 L0 0 Z" gXpos="149.606929133858" gYpos="2561.10236220472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1689573909" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Moteur "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="de recherche "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="&amp; navigateur"/>
+                <ITEXT CH="..."/>
+                <para LINESPMode="1"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="99" CH="Firefox"/>
+                <ITEXT FONT="DINdong &lt;3" FCOLOR="Blue" SCALEH="99" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="99" CH="reste le meilleur moteur de recher-che"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" à mon sens, et en plus il est possible d'installer des supers extensions "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="99" CH="genre "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="94" CH="l'addon "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="94" CH="Privacy Redirect"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="94" CH=" qui permet de redi-"/>
+                <para wordTrack="0.94"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="100" CH="riger vers des alternatives à Youtube,"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Twitter, Instagram et Google Maps."/>
+                <para wordTrack="0.9"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="/!\ Un vrai bloqueur de pub (adblock c’est des méchants) : "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://ublockorigin.com/"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="101" CH="Au niveau du navigateur, pour l'instant"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" j'utilise "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Duck Duck go"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" qui marche vraiment bien pour moi - par contre "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="0.95"/>
+                <ITEXT FONT="DINdong &lt;3" CH="j'ai souvent des résultats en anglais, "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="0.95"/>
+                <ITEXT FONT="DINdong &lt;3" CH="ça peut être génant pour certain..es! "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="0.95"/>
+                <ITEXT FONT="DINdong &lt;3" CH="J'ai eu l'occasion de tester un peu "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Lilo"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="0.95"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="98" CH="et son système de "/>
+                <ITEXT SCALEH="98" CH="“ "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="98" CH="gouttes"/>
+                <ITEXT SCALEH="98" CH=" ”"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="98" CH=" qui augmente"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" au fil de nos recherches et qu'on peut ensuite donner à une association, mais "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="0.95"/>
+                <ITEXT FONT="DINdong &lt;3" CH="je n'en sais pas plus."/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="0.95"/>
+                <para/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Exporter ses marques-pages"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Vu qu'on peut être amené..e à devoir changer de navigateur, beaucoup seront ennuyé..es de devoir perdre leurs marques-pages. "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Mais il faut savoir qu'il est possible "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="de les exporter en un fichier html! "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Je vous conseille de le faire, car comme ça vous conserverez toujours vos favoris. Vous pouvez trouver comment faire "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="en recherchant sur... DuckDuckGo"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="votre nouvel..le ami..e"/>
+                <ITEXT FONT="Basteleur Bold" CH=" ☆"/>
+                <para/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Se mettre "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="à programmer"/>
+                <para LINESPMode="1"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Apprendre le Html est possible plutôt facilement sur internet, et ça donne "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="une vrai maîtrise sur ses créations. "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="C'est hyper fun à faire même si c'est compliqué au début, ça en vaut vraiment le coup! "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Quelques sites intéressants de créateur..ices  qui font des choses chouettes avec "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="les langages du web"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=":"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="http://eugéniebidaut.eu/kratos_gratos/"/>
+                <para LINESP="19"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://raphaelbastide.com/"/>
+                <para LINESP="19"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Blue"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://sarahgarcin.com/"/>
+                <para LINESP="19"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://www.adelfaure.net/"/>
+                <para LINESP="19"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Blue"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://julie-blanc.fr/"/>
+                <para LINESP="19"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="http://bonjourmonde.net/en"/>
+                <para LINESP="19"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="http://art.teleportacia.org/"/>
+                <para LINESP="19"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="257.323464566929" YPOS="4495.27464566929" OwnPage="7" ItemID="1689573909" PTYPE="4" WIDTH="215.433070866142" HEIGHT="522.214783088417" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 522.215 L0 522.215 L0 0 Z" copath="M0 0 L215.433 0 L215.433 522.215 L0 522.215 L0 0 Z" gXpos="257.323464566929" gYpos="2546.92913385826" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1689580805"/>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="5130.54992125984" OwnPage="8" ItemID="1689534245" PTYPE="4" WIDTH="215.433070866142" HEIGHT="520.307680425293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 520.308 L0 520.308 L0 0 Z" copath="M0 0 L215.433 0 L215.433 520.308 L0 520.308 L0 0 Z" gXpos="149.606929133858" gYpos="2532.7559055118" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1696525045" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Pourquoi "/>
+                <para LINESPMode="0" LINESP="19">
+                    <Tabs Type="0" Pos="-53.1368955313705" Fill=""/>
+                </para>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="des typographies open-sources "/>
+                <para LINESPMode="0" LINESP="19">
+                    <Tabs Type="0" Pos="-53.1368955313705" Fill=""/>
+                </para>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="et libres?"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="12" CH=" "/>
+                <para LINESPMode="0" LINESP="19">
+                    <Tabs Type="0" Pos="-53.1368955313705" Fill=""/>
+                </para>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FCOLOR="White" CH="Le a-propos de Velvetyne"/>
+                <para ALIGN="1" LINESP="21"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="7" CH="Texte repris sur le site "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="7" FEATURES="inherit underline" FCOLOR="Blue" CH="Velvetyne.fr"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="7" CH=" et traduit librement en français"/>
+                <para ALIGN="1" LINESP="11"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="* Nous croyons que les typographies proprétaires ne sont pas les meilleurs outils pour certaines pratiques créatives, et nous pensons que ces objectifs origi-naux méritent des caractères de haute qualité. "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="97" CH="Nous pensons que toutes les créa-tions"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="96" CH=" graphiques ou typographiques"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <para LINESP="15" wordTrack="0.91"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="98" CH="ne doivent pas faire partie d'une économie "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de marché et nous soutenons la liberté "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de subvertir ses règles."/>
+                <para LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="* Nous pensons que la SIL Open Font License (OFL) est une bonne base "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="pour apprendre aux gens comment "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="créer et distribuer les typographies. "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Nous voulons populariser la typographie "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="et le dessin de caractère et le rendre "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="plus accessible au grand public, pour "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="que tout le monde puisse comprendre comment ça fonctionne. "/>
+                <para LINESP="15"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="* Nous pensons que rendre le dessin "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de caractère plus transparent accroît "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="le dynamisme de la création contemporaine. "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="96" CH="En ce sens, les utilisateur..ices "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="99" CH="peuvent continuer à développer nos typo-graphies"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" en fonction de leurs point "/>
+                <para LINESP="15" wordTrack="0.88"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de vues et leurs  besoins particuliers. "/>
+                <para LINESP="15" wordTrack="0.88"/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="* Nous voulons faire de Velvetyne "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="un terrain de jeu pour ce genre de projet qui peuvent représenter peu d'intêret "/>
+                <para LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="au niveau commercial mais qui possède une valeur hautement poétique, esthétique ou technique. Nous voulons encourager et cultiver ces créations contemporaines en marges de la scène typographique contemporaine. "/>
+                <para LINESP="15"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FCOLOR="White" CH="Je peux faire quoi avec les VTFS fonts?"/>
+                <para ALIGN="1" LINESP="15"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Toutes les typographies hébergées "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="sur Velvetyne sont libres et open-source. Cela veut dire que vous pouvez:"/>
+                <para/>
+                <tab FONT="DINdong &lt;3" FONTSIZE="12"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="1. Les utiliser"/>
+                <para/>
+                <tab FONT="DINdong &lt;3" FONTSIZE="12"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="2. Les modifier"/>
+                <para/>
+                <tab FONT="DINdong &lt;3" FONTSIZE="12"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="3. Les redistribuer"/>
+                <para/>
+                <tab FONT="DINdong &lt;3" FONTSIZE="12"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="4. Redistribuer les versions "/>
+                <para/>
+                <tab/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="     modifiées"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="*"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="97" CH="Ces règles sont valables pour tout travail"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" personnel et commercial. Les typos "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="99" CH="Velvetynes peuvent être utilisées sur tout"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" les médiums que vous pouvez imaginer: poster, logo, magazine, app, t-shirt, clips musicaux, camion... N'oubliez pas que vous devez créditer le nom du..de la créateur..ice et de notre fonderie à chaque fois "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="que vous utilisez nos typographies. "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="99" CH="Si l'une des caractéristiques de nos fontes"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" ne vous convient pas, vous êtes libre "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="98" CH="de la modifier afin de l'adapter à vos goûts"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" ou à vos besoins. Dans ce cas, vous"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="devez redistribuer votre création sous "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="la même licence que la police originale. N'hésitez pas à nous envoyer vos versions modifiées de nos fontes !"/>
+                <para/>
+                <para LINESP="17"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FCOLOR="White" CH="Supportez et donnez "/>
+                <ITEXT FONT="C059 Bold" FCOLOR="White" CH="☺"/>
+                <para ALIGN="1"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="* Si vous aimez nos typographies "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="99" CH="et nos activitées, s'il-vous plaît considérez"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="102" CH="la donation pour notre association"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <para wordTrack="0.97"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="à but non lucratif. Cela nous permettra "/>
+                <para wordTrack="0.97"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="de continuer à distribuer de nouvelles "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="102" CH="fontes de qualité, en open source, "/>
+                <para wordTrack="0.97"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="et à améliorer notre catalogue existant. Visitez notre page de dons."/>
+                <para wordTrack="0.97"/>
+                <para/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Liste "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="de fonderies "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="&amp; typos libres"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" CH="(liste non-exhaustive)"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underlinewords" FCOLOR="Blue" CH="https://www.velvetyne.fr/"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Velvetyne, VTF ou Velvetyne Type Foundry est une fonderie qui distribue librement, gratuitement des typographies open sources. "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Conçue en 2010 par Frank Adebiaye."/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underlinewords" FCOLOR="Blue" CH="https://www.design-research.be/by-womxn/"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Badass font by Wxmen est un projet initié par Loraine Furter en 2018. "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Cette collection a pour but de donner plus de visibilité aux typographies libres créés par des femmes, qui sont souvent sous-représentées dans le champ tradi-tionnel conservateur de la typo-graphie. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://fonderiz.fr/"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Cette fonderie conçue par Cédric Rossignol-Brunet à pour but de distri-buer des typographies open source "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="en évolution perpetuelles. Toutes "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="les typographies disponibles sur Fond "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="de riz sont sous licence SIL Open font."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://typotheque.genderfluid.space/"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="La collective Bye Bye Binary propose "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="102" CH="d’explorer de nouvelles formes"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" graph-iques et typographiques adaptées "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="96" CH="à la langue française, notamment la création"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" de glyphes prenant pour point de départ, "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="94" CH="terrain d’expérimentation et sujet de recher-"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="99" CH="che le langage et l’écriture inclusive."/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para wordTrack="0.94"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://typotheque.luuse.fun/"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Free font library dévelopé par Luuse"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://usemodify.com/"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Use &amp; Modify sélection personnelle "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="de Raphaël Bastide"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="257.323464566929" YPOS="7036.3757480315" OwnPage="11" ItemID="1691305493" PTYPE="4" WIDTH="215.433070866142" HEIGHT="520.234972666633" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 520.235 L0 520.235 L0 0 Z" copath="M0 0 L215.433 0 L215.433 520.235 L0 520.235 L0 0 Z" gXpos="257.323464566929" gYpos="3789.13322834646" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1696566661"/>
+        <PAGEOBJECT XPOS="257.323464566929" YPOS="8306.9262992126" OwnPage="13" ItemID="1691396901" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.905511811024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="257.323464566929" gYpos="3760.78677165354" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1693870805" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Les smartphones "/>
+                <para LINESPMode="1" LINESP="15"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="9" CH="Pour Android uniquement, on peut pas faire grand chose sur Apple "/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="9" CH="je crois /!\"/>
+                <para LINESPMode="1"/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Pour les systèmes d’exploitation, "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="vous pouvez opter pour un de ces 3 là"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://lineageos.org/"/>
+                <ITEXT FONT="DINdong &lt;3" CH="  "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://e.foundation/fr/"/>
+                <ITEXT FONT="DINdong &lt;3" CH="  "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://murena.com/fr/"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="99" CH="Ils ne marchent pas sur tous les Androids,"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" du moins il faut bien se renseigner avant sur quel type de système prendre, "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="et ça peut-être un peu fastidieux mais perso j'utilise "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="LineageOs"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" depuis 2 mois sur un Xiaomi Note 9 et c'est cool."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Sur Android, vous pouvez télécharger "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="F-droid"/>
+                <ITEXT FONT="DINdong &lt;3" CH=", c'est comme le "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit strike" FCOLOR="Red" CH="Play store"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="mais avec que des apps libres! Et vous pouvez en profiter pour télécharger "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Exodus"/>
+                <ITEXT FONT="DINdong &lt;3" CH=", une app qui permet de scanner vos applis et vous dire lesquelles ont "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="des pisteurs ! C'est un peu le Yuka "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="des logiciels "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="✿"/>
+                <ITEXT FONT="DejaVu Sans Bold" Unicode="55357"/>
+                <ITEXT FONT="DejaVu Sans Bold" Unicode="56857"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" CH="Alternative à l’appli "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit strike" FCOLOR="Red" CH="YouTube"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" sur smartphone (SANS PUB ! et trop bien tu peux même télécharger les musiques et tout ajdjkedek j'adore)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=":"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="NewPipe"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Le seul soucis c'est qu'il faut parfois aller "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="101" CH="sur leur site officiel pour télécharger "/>
+                <para wordTrack="1.06"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="99" CH="les mises à jour parce que ça peut bugger."/>
+                <para/>
+                <para/>
+                <ITEXT CH="----"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Moins d'applis + de signets"/>
+                <ITEXT CH="  "/>
+                <ITEXT FONT="C059 Bold" CH="☺"/>
+                <ITEXT CH=" ----"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="10"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Un autre conseil qu'un ami m'a donné c'est d'ajouter les sites à l'écran d'accueil/"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="97" CH="faire des signets au lieu d'installer les appli-"/>
+                <ITEXT FONT="DINdong &lt;3" CH="cations. Ça évite pas mal de récupérer "/>
+                <para wordTrack="0.9"/>
+                <ITEXT FONT="DINdong &lt;3" CH="les données apparemment! "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="97" CH="Et ça fonction"/>
+                <ITEXT FONT="DINdong &lt;3" CH="-ne tout aussi bien, je le fais pour mes mails, ma banque, etc..."/>
+                <para wordTrack="0.9"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="▢▢▢"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="▢☻▢"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="▢▢▢"/>
+                <para ALIGN="1"/>
+                <para/>
+                <ITEXT CH="-----"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Télécharger ses contacts"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="C059 Bold" CH="☺"/>
+                <ITEXT CH=" -----"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="10"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Un autre truc que je trouve important "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="102" CH="à faire et à savoir c'est qu'on peut"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" télécharger ses fichiers de contacts "/>
+                <para wordTrack="1.03"/>
+                <ITEXT FONT="DINdong &lt;3" CH="et les exporter en fichier .vcf, qui sont lisible par tous les smartphones je crois. "/>
+                <para/>
+                <para/>
+                <ITEXT CH="---------"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Autres apps sympa"/>
+                <ITEXT CH=" ---------"/>
+                <para ALIGN="1" LINESPMode="0" LINESP="10"/>
+                <ITEXT FONT="Symbola Regular" SCALEH="100" Unicode="55357"/>
+                <ITEXT FONT="Symbola Regular" SCALEH="100" Unicode="56347"/>
+                <ITEXT FONT="Symbola Regular" SCALEH="100" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="100" CH="Carte et navigation"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="100" CH=":  "/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="100"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="100" CH="organicmaps"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="100" CH=" "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" MinWordTrack="1" MinGlyphShrink="0.96" wordTrack="1"/>
+                <ITEXT FONT="Symbola Regular" Unicode="55356"/>
+                <ITEXT FONT="Symbola Regular" Unicode="57253"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Lecteur pour Twitch"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Xtra"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="Symbola Regular" Unicode="55358"/>
+                <ITEXT FONT="Symbola Regular" Unicode="56593"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Spotify"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Spotube"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="Symbola Regular" Unicode="55357"/>
+                <ITEXT FONT="Symbola Regular" Unicode="56487"/>
+                <ITEXT FONT="Symbola Regular" Unicode="55357"/>
+                <ITEXT FONT="Symbola Regular" Unicode="56487"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Calendrier Menstruel"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=":"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Drip"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="Symbola Regular" Unicode="55356"/>
+                <ITEXT FONT="Symbola Regular" Unicode="57262"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Emulateur pour Ds"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=":"/>
+                <tab FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Lemuroid"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Sites "/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-119.1751121" Fill=""/>
+                    <Tabs Type="0" Pos="-116.8821185" Fill=""/>
+                    <Tabs Type="0" Pos="-57.72288279" Fill=""/>
+                </para>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="qui proprosent des guides"/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-119.1751121" Fill=""/>
+                    <Tabs Type="0" Pos="-116.8821185" Fill=""/>
+                    <Tabs Type="0" Pos="-57.72288279" Fill=""/>
+                </para>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Le Wiki d'herminien (fr)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://wiki.pcet.link/"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Privacy tools(en)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://www.privacytools.io/"/>
+                <para LINESPMode="1"/>
+                <ITEXT CH=" "/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Degooglisons internet (fr)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://degooglisons-internet.org/"/>
+                <para LINESPMode="1"/>
+                <ITEXT CH=" "/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Data detox guide (fr)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://datadetoxkit.org/fr/home"/>
+                <para LINESPMode="1"/>
+                <ITEXT CH=" "/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Autodéfense numérique (livre en ligne et papier très complet)(fr)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH=": "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://guide.boum.org/ "/>
+                <para LINESPMode="1"/>
+                <ITEXT CH=" "/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Autodéfense numérique "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="de nothing2hide"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH="(fr):"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://nothing2hide.org/fr/guide-de-protection-numerique/ "/>
+                <para LINESPMode="1"/>
+                <ITEXT CH=" "/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Survie en protection numérique "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="à l’usage des militant·es"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" CH="(fr): "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://zadducarnet.org/index.php/2021/01/10/guide-de-survie/ "/>
+                <para LINESPMode="1"/>
+                <ITEXT CH=" "/>
+                <para LINESPMode="0" LINESP="7"/>
+                <ITEXT FONT="Symbola Regular" CH="★"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Synthèse infographique de ce que permettent en matière de protection "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="des données de connexion à un site(fr): "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://nos-oignons.net/Diffusez/tor-et-https-v2.pdf"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" "/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Et à Sainté ?"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="Symbola Regular" CH="➜"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" Le "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Remue-méninge"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" propose un atelier &quot;Obsolescence déprogrammée&quot;, orga-"/>
+                <para ALIGN="0" LINESP="15" wordTrack="0.92"/>
+                <ITEXT FONT="DINdong &lt;3" CH="nisé "/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="97" CH="par l'association Ateliéphémère "/>
+                <para ALIGN="0" LINESP="15" wordTrack="0.92"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="97" CH="les mercredis!"/>
+                <ITEXT FONT="DINdong &lt;3" SCALEH="98" CH=" "/>
+                <para ALIGN="0" LINESP="15" wordTrack="0.92"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT CH="“ "/>
+                <ITEXT FONT="DINdong &lt;3" CH="Entraide autour de la réparation d’objets divers : informatique, électroménager, jouet, machine à coudre, matériel son "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="et vidéo, etc."/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="Pour répondre à la baisse constante "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="de notre autonomie face aux problèmes rencontrés avec les objets "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="qui nous entourent."/>
+                <ITEXT CH=" ”"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://remue-meninges.com/site/index.php/obsolescence-deprogrammee/"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Symbola Regular" CH="➜"/>
+                <ITEXT FONT="DINdong &lt;3" CH=" L'association "/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="Alolise"/>
+                <para ALIGN="0" LINESP="15"/>
+                <para ALIGN="0" LINESP="15"/>
+                <ITEXT CH="“ "/>
+                <ITEXT FONT="DINdong &lt;3" CH="Outre une permanence hebdomadaire permettant à quiconque de venir "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="se renseigner, découvrir les logiciels libres et recevoir de l'aide informatique "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="en cas de besoin, Alolise propose "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="des formations ouvertes à tous dans "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="le but de promouvoir les logiciels libres, "/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" CH="et organise des soirées en partenariat avec des acteurs locaux : soirées cinéma, concerts, conférences, etc."/>
+                <ITEXT CH=" ”"/>
+                <para ALIGN="1" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://www.chatons.org/chatons/alolise"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="8942.20157480315" OwnPage="14" ItemID="1693870805" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.905511811024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="149.606929133858" gYpos="3746.61354330708" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1693874133" BACKITEM="1691396901"/>
+        <PAGEOBJECT XPOS="257.323464566929" YPOS="9577.4768503937" OwnPage="15" ItemID="1693874133" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.905511811024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="257.323464566929" gYpos="3732.44031496062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1697358021" BACKITEM="1693870805"/>
+        <PAGEOBJECT XPOS="384.233652339636" YPOS="4804.73196850393" OwnPage="7" ItemID="1693867221" PTYPE="13" WIDTH="19.2611464968152" HEIGHT="19.2611464968152" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" POLYC="8" POLYF="0.378790608329628" POLYR="0" POLYIR="0" POLYCUR="0.3" POLYOCUR="0" POLYS="1" copath="M9.63057 0 C9.63057 0 9.27604 5.82889 8.23456 6.26029 C7.19307 6.69169 2.82073 2.82073 2.82073 2.82073 C2.82073 2.82073 6.69169 7.19307 6.26029 8.23456 C5.82889 9.27604 0 9.63057 0 9.63057 C0 9.63057 5.82889 9.9851 6.26029 11.0266 C6.69169 12.0681 2.82073 16.4404 2.82073 16.4404 C2.82073 16.4404 7.19307 12.5695 8.23456 13.0009 C9.27604 13.4323 9.63057 19.2611 9.63057 19.2611 C9.63057 19.2611 9.9851 13.4323 11.0266 13.0009 C12.0681 12.5695 16.4404 16.4404 16.4404 16.4404 C16.4404 16.4404 12.5695 12.0681 13.0009 11.0266 C13.4323 9.9851 19.2611 9.63057 19.2611 9.63057 C19.2611 9.63057 13.4323 9.27604 13.0009 8.23456 C12.5695 7.19307 16.4404 2.82073 16.4404 2.82073 C16.4404 2.82073 12.0681 6.69169 11.0266 6.26029 C9.9851 5.82889 9.63057 0 9.63057 0 Z" gXpos="384.233652339636" gYpos="4804.73196850393" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="447.520276543458" YPOS="4891.28485480715" OwnPage="7" ItemID="1694039413" PTYPE="13" WIDTH="10.0891719745223" HEIGHT="10.0891719745223" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" POLYC="8" POLYF="0.378790608329628" POLYR="0" POLYIR="0" POLYCUR="0.3" POLYOCUR="0" POLYS="1" copath="M5.04459 0 C5.04459 0 4.85888 3.05323 4.31334 3.2792 C3.7678 3.50517 1.47753 1.47753 1.47753 1.47753 C1.47753 1.47753 3.50517 3.7678 3.2792 4.31334 C3.05323 4.85888 0 5.04459 0 5.04459 C0 5.04459 3.05323 5.23029 3.2792 5.77583 C3.50517 6.32138 1.47753 8.61165 1.47753 8.61165 C1.47753 8.61165 3.7678 6.584 4.31334 6.80997 C4.85888 7.03594 5.04459 10.0892 5.04459 10.0892 C5.04459 10.0892 5.23029 7.03594 5.77583 6.80997 C6.32138 6.584 8.61165 8.61165 8.61165 8.61165 C8.61165 8.61165 6.584 6.32138 6.80997 5.77583 C7.03594 5.23029 10.0892 5.04459 10.0892 5.04459 C10.0892 5.04459 7.03594 4.85888 6.80997 4.31334 C6.584 3.7678 8.61165 1.47753 8.61165 1.47753 C8.61165 1.47753 6.32138 3.50517 5.77583 3.2792 C5.23029 3.05323 5.04459 0 5.04459 0 Z" gXpos="447.520276543458" gYpos="4891.28485480715" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="256.40662992126" YPOS="4855.10141732283" OwnPage="7" ItemID="1694026133" PTYPE="13" WIDTH="31.1847133757962" HEIGHT="31.1847133757962" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" POLYC="8" POLYF="0.378790608329628" POLYR="0" POLYIR="0" POLYCUR="0.3" POLYOCUR="0" POLYS="1" copath="M15.5924 0 C15.5924 0 15.0184 9.43725 13.3321 10.1357 C11.6459 10.8342 4.5669 4.5669 4.5669 4.5669 C4.5669 4.5669 10.8342 11.6459 10.1357 13.3321 C9.43725 15.0184 0 15.5924 0 15.5924 C0 15.5924 9.43725 16.1664 10.1357 17.8526 C10.8342 19.5388 4.5669 26.6178 4.5669 26.6178 C4.5669 26.6178 11.6459 20.3506 13.3321 21.049 C15.0184 21.7475 15.5924 31.1847 15.5924 31.1847 C15.5924 31.1847 16.1664 21.7475 17.8526 21.049 C19.5388 20.3506 26.6178 26.6178 26.6178 26.6178 C26.6178 26.6178 20.3506 19.5388 21.049 17.8526 C21.7475 16.1664 31.1847 15.5924 31.1847 15.5924 C31.1847 15.5924 21.7475 15.0184 21.049 13.3321 C20.3506 11.6459 26.6178 4.5669 26.6178 4.5669 C26.6178 4.5669 19.5388 10.8342 17.8526 10.1357 C16.1664 9.43725 15.5924 0 15.5924 0 Z" gXpos="256.40662992126" gYpos="4855.10141732283" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="257.323464566929" YPOS="5765.82519685039" OwnPage="9" ItemID="1696525045" PTYPE="4" WIDTH="215.433070866142" HEIGHT="511.062998144338" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 511.063 L0 511.063 L0 0 Z" copath="M0 0 L215.433 0 L215.433 511.063 L0 511.063 L0 0 Z" gXpos="257.323464566929" gYpos="5765.82519685039" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1696566661" BACKITEM="1689534245"/>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="6401.10047244095" OwnPage="10" ItemID="1696566661" PTYPE="4" WIDTH="215.433070866142" HEIGHT="511.448889111788" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 511.449 L0 511.449 L0 0 Z" copath="M0 0 L215.433 0 L215.433 511.449 L0 511.449 L0 0 Z" gXpos="149.606929133858" gYpos="6401.10047244095" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1691305493" BACKITEM="1696525045"/>
+        <PAGEOBJECT XPOS="255.906141732283" YPOS="1954.17354330709" OwnPage="3" ItemID="1696473029" PTYPE="4" WIDTH="215.433070866142" HEIGHT="513.070866141737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 513.071 L0 513.071 L0 0 Z" copath="M0 0 L215.433 0 L215.433 513.071 L0 513.071 L0 0 Z" gXpos="255.906141732283" gYpos="1954.17354330709" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1687966869"/>
+        <PAGEOBJECT XPOS="351.693543307087" YPOS="2685.82677165355" OwnPage="4" ItemID="1696578741" PTYPE="4" WIDTH="13.3464566929134" HEIGHT="14.1732283464571" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L13.3465 0 L13.3465 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L13.3465 0 L13.3465 14.1732 L0 14.1732 L0 0 Z" gXpos="351.693543307087" gYpos="2685.82677165355" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="5"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="316.850078740158" YPOS="2728.34645669292" OwnPage="4" ItemID="1696490693" PTYPE="4" WIDTH="48.1899212598425" HEIGHT="16.5835799187512" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L48.1899 0 L48.1899 16.5836 L0 16.5836 L0 0 Z" copath="M0 0 L48.1899 0 L48.1899 16.5836 L0 16.5836 L0 0 Z" gXpos="316.850078740158" gYpos="2728.34645669292" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="6-7"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="351.693543307087" YPOS="2767.67653342696" OwnPage="4" ItemID="1696487445" PTYPE="4" WIDTH="13.3464566929134" HEIGHT="17.6101910828024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L13.3465 0 L13.3465 17.6102 L0 17.6102 L0 0 Z" copath="M0 0 L13.3465 0 L13.3465 17.6102 L0 17.6102 L0 0 Z" gXpos="351.693543307087" gYpos="2767.67653342696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="7"/>
+                <trail ALIGN="0" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="2810.2344952104" OwnPage="4" ItemID="1696590949" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="2810.2344952104" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="8-9-10"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="2863.43194743969" OwnPage="4" ItemID="1696537845" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="2863.43194743969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="10-11"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="7671.65102362205" OwnPage="12" ItemID="1696542181" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.905511811024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="149.606929133858" gYpos="3774.96" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="Les réseaux sociaux"/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-53.13689553" Fill=""/>
+                </para>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-53.13689553" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Les réseaux sociaux sont pour moi "/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-53.13689553" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="le plus dur a échapper. Je suis personnel-lement encore sur tout les réseaux, "/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-53.13689553" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="car j'y vois aussi un intérêt notamment pour m'informer, et communiquer. "/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-53.13689553" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="J'ai juste réussi a supprimer "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FEATURES="inherit strike" FCOLOR="Red" CH="Whatsapp"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="98" CH="car j'ai fais passer la majorité de ma famille"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" sur "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FEATURES="inherit underline" FCOLOR="Blue" CH="Signal"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" - ce qui n'a pas été une mince "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="98" CH="affaire... Pour autant, je sais que quelques"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" personnes autour de moi utilisent "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="les services de "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FEATURES="inherit underline" FCOLOR="Blue" CH="Mastodon"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="."/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="FT88 School" FONTSIZE="19" CH="S'informer"/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="-53.13689553" Fill=""/>
+                </para>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FEATURES="inherit underline" FCOLOR="Blue" CH="La quadrature du net"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" FCOLOR="Blue" CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="est une des asso-ciations pionnière qui "/>
+                <ITEXT CH="“ "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="lutte contre "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="la censure et la surveillance, que celles-ci viennent des États ou des entreprises privées. Elle questionne la façon dont "/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="le numérique et la société s’influencent mutuellement. "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="95" CH="Elle œuvre pour un Internet"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH=" l"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" SCALEH="102" CH="ibre, décentralisé et émancipateur."/>
+                <ITEXT SCALEH="102" CH=" ”"/>
+                <para ALIGN="0" LINESPMode="0" LINESP="15" wordTrack="1.03"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="12" CH="Le site est intéressant a consulter régu-lièrement pour les nombreux articles qu'iels publient! Jetez-un oeil à  "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="https://technopolice.fr/"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Black" CH=" également! "/>
+                <para/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit" FCOLOR="Black" CH="Iels organisent parfois des évènements"/>
+                <ITEXT FONT="DINdong &lt;3" FEATURES="inherit underline" FCOLOR="Blue" CH="!"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="255.906141732284" YPOS="1222.20566929134" OwnPage="1" ItemID="1696557637" PTYPE="6" WIDTH="20.1783439490446" HEIGHT="19.8425196850396" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" path="M0 0 L20.1783 0 L20.1783 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L20.1783 0 L20.1783 19.8425 L0 19.8425 L0 0 Z" gXpos="255.906141732284" gYpos="1222.20566929134" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="351.693543307087" YPOS="2657.97971814033" OwnPage="4" ItemID="1696550629" PTYPE="4" WIDTH="13.3464566929134" HEIGHT="13.9414012738857" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L13.3465 0 L13.3465 13.9414 L0 13.9414 L0 0 Z" copath="M0 0 L13.3465 0 L13.3465 13.9414 L0 13.9414 L0 0 Z" gXpos="351.693543307087" gYpos="2657.97971814033" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="4"/>
+                <trail ALIGN="0" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="316.850078740158" YPOS="2618.35678820403" OwnPage="4" ItemID="1697232661" PTYPE="4" WIDTH="48.1899212598425" HEIGHT="16.3949044585988" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L48.1899 0 L48.1899 16.3949 L0 16.3949 L0 0 Z" copath="M0 0 L48.1899 0 L48.1899 16.3949 L0 16.3949 L0 0 Z" gXpos="316.850078740158" gYpos="2618.35678820403" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="17" CH=" "/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="2-3"/>
+                <trail ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="2905.98990922313" OwnPage="4" ItemID="1697224245" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="2905.98990922313" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="12"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="2934.2395907518" OwnPage="4" ItemID="1696609797" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="2934.2395907518" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="12"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="2962.85615126135" OwnPage="4" ItemID="1697268981" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="2962.85615126135" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="13-14"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="257.323464566929" YPOS="10848.0274015748" OwnPage="17" ItemID="1697318037" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.905511811024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="257.323464566929" gYpos="10198.5788976378" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Symbola Regular" FONTSIZE="10" CH="♪"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH=" Une fois j'ai un ami qui m'a dit un truc du genre:"/>
+                <para LINESPMode="1">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </para>
+                <ITEXT FONTSIZE="9" CH="“"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="On perd de plus en plus l'habitude de changer d'outils, de logiciels. Avant c'était plus courant, "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="y'a eu Myspace, après Skyblog, Msn, puis "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="on à migré sur Facebook etc... Maintenant "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="on veut nous rendre dépendant..es des mêmes services et nous fidéliser absolument. Mais il faut vraiment qu'on redevienne pret..es et capable "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="de s'adapter à changer d'outil à n'importe quel moment, surtout à partir du moment où l'outil "/>
+                <para ALIGN="1" LINESPMode="0" LINESP="15">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="ne respecte plus nos valeurs et notre vie privée."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONTSIZE="9" CH="”"/>
+                <trail ALIGN="1" LINESPMode="0" LINESP="15">
+                    <Tabs Type="0" Pos="127.998166407543" Fill=""/>
+                    <Tabs Type="0" Pos="199.539567681429" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.606929133858" YPOS="10212.7521259843" OwnPage="16" ItemID="1697358021" PTYPE="4" WIDTH="215.433070866142" HEIGHT="515.905511811024" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" copath="M0 0 L215.433 0 L215.433 515.906 L0 515.906 L0 0 Z" gXpos="149.606929133858" gYpos="10212.7521259843" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1693874133"/>
+        <PAGEOBJECT XPOS="255.906141732283" YPOS="12657.1606299213" OwnPage="19" ItemID="1697353157" PTYPE="6" WIDTH="27.4084236922616" HEIGHT="13.6443051306542" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" path="M0 0 L27.4084 0 L27.4084 13.6443 L0 13.6443 L0 0 Z" copath="M0 0 L27.4084 0 L27.4084 13.6443 L0 13.6443 L0 0 Z" gXpos="255.906141732283" gYpos="12657.1606299213" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="338.292993630573" YPOS="12022.4142775465" OwnPage="18" ItemID="1697356373" PTYPE="6" WIDTH="27.4084236922616" HEIGHT="13.6443051306542" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" path="M0 0 L27.4084 0 L27.4084 13.6443 L0 13.6443 L0 0 Z" copath="M0 0 L27.4084 0 L27.4084 13.6443 L0 13.6443 L0 0 Z" gXpos="338.292993630573" gYpos="12671.8627814835" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="257.678318872561" YPOS="11336.8818897638" OwnPage="17" ItemID="1697340981" PTYPE="4" WIDTH="214.624203821656" HEIGHT="26.6815286624187" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L214.624 0 L214.624 26.6815 L0 26.6815 L0 0 Z" copath="M0 0 L214.624 0 L214.624 26.6815 L0 26.6815 L0 0 Z" gXpos="257.678318872561" gYpos="11336.8818897638" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" CH="* Contact me by mail si tu veux qu'on échange sur des trucs! "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="10" FEATURES="inherit underline" FCOLOR="Blue" CH="samzan@mailo.fr"/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="258.132331611415" YPOS="12423.3456040925" OwnPage="19" ItemID="1697722357" PTYPE="4" WIDTH="214.624203821656" HEIGHT="225.311088820947" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L214.624 0 L214.624 225.311 L0 225.311 L0 0 Z" copath="M0 0 L214.624 0 L214.624 225.311 L0 225.311 L0 0 Z" gXpos="258.132331611415" gYpos="12423.3456040925" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="Typographies utilisé..es : les sublimes FT88 School "/>
+                <para LINESPMode="0" LINESP="11">
+                    <Tabs Type="0" Pos="201.176560509554" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="et DINdong, trouvé..es respectivement sur "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="101" CH="Velvetyne"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH=" "/>
+                <para LINESPMode="0" LINESP="11">
+                    <Tabs Type="0" Pos="201.176560509554" Fill=""/>
+                </para>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="et "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="101" CH="Typothèque.genderfluid"/>
+                <para LINESPMode="0" LINESP="11">
+                    <Tabs Type="0" Pos="201.176560509554" Fill=""/>
+                </para>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="Achevé d'imprimer en Septembre 2022 sur la Xerox "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="du CyDRe, à l'ESADSE par Samantha Zannoni "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="Édition entièrement réalisée sur "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="101" CH="Scribus"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH=" version 1.5.6.1, imprimée sur du papier de récup' acheté à Pièces Montées, 1 rue du théâtre à St Étienne."/>
+                <para LINESPMode="0" LINESP="11"/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="© CC-BY-SA Disponible sur GitHub "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="101" CH="https://github.com/SamZannoni/guide-outils-libres"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH=", entièrement téléchargeable, modifiable, copiable, distribuable et reimprimable à condition que les auteur..ices et la source soient cité..es et que les œuvres dérivées "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="qui en résultent soient soumises à la même licence "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="ou à une licence similaire. "/>
+                <para LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" SCALEH="101" CH="Pour en savoir plus sur la licence, consultez le site "/>
+                <ITEXT FONT="DINdong &lt;3" FONTSIZE="9" FEATURES="inherit underline" FCOLOR="Blue" SCALEH="101" CH="https://creativecommons.org/licenses/by-sa/4.0/"/>
+                <trail LINESPMode="0" LINESP="11"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="3001.74532323587" OwnPage="4" ItemID="1697822117" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="3001.74532323587" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="15"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.92094488189" YPOS="3044.30328501931" OwnPage="4" ItemID="1697813701" PTYPE="4" WIDTH="78.1190551181102" HEIGHT="16.3342275941613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" copath="M0 0 L78.1191 0 L78.1191 16.3342 L0 16.3342 L0 0 Z" gXpos="286.92094488189" gYpos="3044.30328501931" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="17" CH="16"/>
+                <trail ALIGN="2" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.433798084157" YPOS="514.897750137922" OwnPage="0" ItemID="1698424005" PTYPE="13" WIDTH="74.3660444355287" HEIGHT="74.3660444355287" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" POLYC="8" POLYF="0.378790608329628" POLYR="0" POLYIR="0" POLYCUR="0.3" POLYOCUR="0" POLYS="1" copath="M37.183 0 C37.183 0 35.8142 22.505 31.7931 24.1706 C27.772 25.8362 10.8907 10.8907 10.8907 10.8907 C10.8907 10.8907 25.8362 27.772 24.1706 31.7931 C22.505 35.8142 0 37.183 0 37.183 C0 37.183 22.505 38.5518 24.1706 42.573 C25.8362 46.5941 10.8907 63.4754 10.8907 63.4754 C10.8907 63.4754 27.772 48.5299 31.7931 50.1955 C35.8142 51.8611 37.183 74.366 37.183 74.366 C37.183 74.366 38.5518 51.8611 42.573 50.1955 C46.5941 48.5299 63.4754 63.4754 63.4754 63.4754 C63.4754 63.4754 48.5299 46.5941 50.1955 42.573 C51.8611 38.5518 74.366 37.183 74.366 37.183 C74.366 37.183 51.8611 35.8142 50.1955 31.7931 C48.5299 27.772 63.4754 10.8907 63.4754 10.8907 C63.4754 10.8907 46.5941 25.8362 42.573 24.1706 C38.5518 22.505 37.183 0 37.183 0 Z" gXpos="311.433798084157" gYpos="514.897750137922" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="339.611715732986" YPOS="546.4372425899" OwnPage="0" ItemID="1698403509" PTYPE="4" WIDTH="28.4331210191083" HEIGHT="15.4713375796179" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L28.4331 0 L28.4331 15.4713 L0 15.4713 L0 0 Z" copath="M0 0 L28.4331 0 L28.4331 15.4713 L0 15.4713 L0 0 Z" gXpos="339.611715732986" gYpos="546.4372425899" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 School" FONTSIZE="15" CH="V1"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.276220472441" YPOS="170.927688449773" OwnPage="0" ItemID="1698465653" PTYPE="4" WIDTH="231.023622047245" HEIGHT="243.974522292994" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L231.024 0 L231.024 243.975 L0 243.975 L0 0 Z" copath="M0 0 L231.024 0 L231.024 243.975 L0 243.975 L0 0 Z" gXpos="142.276220472441" gYpos="170.927688449773" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH="Guide "/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH="  des    "/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH="   outils"/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH="  libres"/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH=" pour "/>
+                <para ALIGN="0" LINESPMode="1"/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH="créateur  "/>
+                <tab FONT="FT88 Gothique" FONTSIZE="32"/>
+                <tab FONT="FT88 Gothique" FONTSIZE="32"/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH=" "/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" SCALEH="73" CH=" "/>
+                <ITEXT FONT="FT88 Gothique" FONTSIZE="32" CH="ice s"/>
+                <trail ALIGN="0" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="325.127612149636" YPOS="340.369410092273" OwnPage="0" ItemID="1697901381" PTYPE="12" WIDTH="10.7773479787558" HEIGHT="9.35445670144935" FRTYPE="0" CLIPEDIT="0" ANNAME="Groupe 1" groupWidth="10.7773479787558" groupHeight="9.35445670144935" groupClips="1" path="M0 0 L10.7773 0 L10.7773 9.35446 L0 9.35446 L0 0 Z" copath="M0 0 L10.7773 0 L10.7773 9.35446 L0 9.35446 L0 0 Z" gXpos="325.127612149636" gYpos="340.369410092273" gWidth="0" gHeight="0" LAYER="2">
+            <PAGEOBJECT XPOS="329.040811897995" YPOS="346.739287101132" OwnPage="0" ItemID="1697904597" PTYPE="6" WIDTH="2.91601241543978" HEIGHT="2.48457969259032" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="3.91319974835898" gYpos="6.36987700885902" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="332.488948242939" YPOS="340.869410092273" OwnPage="0" ItemID="1697897445" PTYPE="6" WIDTH="2.91601188545277" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="7.36133609330301" gYpos="0.5" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="332.488948242939" YPOS="343.772926358276" OwnPage="0" ItemID="1698511173" PTYPE="6" WIDTH="2.91601188545277" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="7.36133609330301" gYpos="3.40351626600301" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="325.627612149636" YPOS="340.869410092273" OwnPage="0" ItemID="1698482501" PTYPE="6" WIDTH="2.91601188545276" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="0.5" gYpos="0.5" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="325.627612149636" YPOS="343.772926358276" OwnPage="0" ItemID="1698444613" PTYPE="6" WIDTH="2.91601188545276" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="0.5" gYpos="3.40351626600301" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="329.040811897995" YPOS="343.359757364801" OwnPage="0" ItemID="1698553045" PTYPE="6" WIDTH="2.91601241543978" HEIGHT="2.48457969259032" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="3.91319974835898" gYpos="2.99034727252803" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="325.134259491449" YPOS="374.201488841549" OwnPage="0" ItemID="1698500933" PTYPE="12" WIDTH="10.7773479787558" HEIGHT="9.35445670144935" FRTYPE="0" CLIPEDIT="0" ANNAME="Copie de Groupe 1" groupWidth="10.7773479787558" groupHeight="9.35445670144935" groupClips="1" path="M0 0 L10.7773 0 L10.7773 9.35446 L0 9.35446 L0 0 Z" copath="M0 0 L10.7773 0 L10.7773 9.35446 L0 9.35446 L0 0 Z" gXpos="325.134259491449" gYpos="374.201488841549" gWidth="0" gHeight="0" LAYER="2">
+            <PAGEOBJECT XPOS="329.047459239808" YPOS="380.571365850408" OwnPage="0" ItemID="1698520085" PTYPE="6" WIDTH="2.91601241543978" HEIGHT="2.48457969259032" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="3.91319974835898" gYpos="6.36987700885902" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="332.495595584752" YPOS="374.701488841549" OwnPage="0" ItemID="1698607749" PTYPE="6" WIDTH="2.91601188545277" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="7.36133609330301" gYpos="0.5" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="332.495595584752" YPOS="377.605005107552" OwnPage="0" ItemID="1698588469" PTYPE="6" WIDTH="2.91601188545277" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="7.36133609330301" gYpos="3.40351626600301" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="325.634259491449" YPOS="374.701488841549" OwnPage="0" ItemID="1698583797" PTYPE="6" WIDTH="2.91601188545276" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="0.5" gYpos="0.5" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="325.634259491449" YPOS="377.605005107552" OwnPage="0" ItemID="1698661205" PTYPE="6" WIDTH="2.91601188545276" HEIGHT="2.48457897546989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="0.5" gYpos="3.40351626600301" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+            <PAGEOBJECT XPOS="329.047459239808" YPOS="377.191836114077" OwnPage="0" ItemID="1698679269" PTYPE="6" WIDTH="2.91601241543978" HEIGHT="2.48457969259032" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" copath="M0 0 L2.91601 0 L2.91601 2.48458 L0 2.48458 L0 0 Z" gXpos="3.91319974835898" gYpos="2.99034727252803" gWidth="10.7773479787558" gHeight="9.35445670144935" LAYER="2"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="414.646299212598" YPOS="20.0012598425197" OwnPage="0" ItemID="1698573221" PTYPE="5" WIDTH="14.4446000300918" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="414.646299212598" gYpos="20.0012598425197" gWidth="0" gHeight="0" LAYER="2"/>
+        <PAGEOBJECT XPOS="414.646299212598" YPOS="592.968152866242" OwnPage="0" ItemID="1698656341" PTYPE="5" WIDTH="21.783999854155" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="89.5890350827394" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="414.646299212598" gYpos="592.968152866242" gWidth="0" gHeight="0" LAYER="2"/>
+        <PAGEOBJECT XPOS="206.299842519685" YPOS="12090.231496063" OwnPage="19" ItemID="1698639989" PTYPE="5" WIDTH="18.8385676312773" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="206.299842519685" gYpos="12090.231496063" gWidth="0" gHeight="0" LAYER="2"/>
+        <PAGEOBJECT XPOS="206.299842519685" YPOS="12666.6685189829" OwnPage="19" ItemID="1698652533" PTYPE="5" WIDTH="18.8385676312773" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="206.299842519685" gYpos="12666.6685189829" gWidth="0" gHeight="0" LAYER="2"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
